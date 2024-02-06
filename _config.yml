@@ -29,9 +29,23 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: Agency
+theme: jekyll-agency
 plugins:
   - jekyll-feed
+
+# logo:     #optional, defaults to site title
+  # path: assets\img\clients\creative-market.jpg
+  # height: 60 #height in px, defaults to 52px
+
+locale: "en-US" # See available languages in _data/sitetext.yml
+
+analytics:
+  google: #Google Analytics tracking code here
+
+collections:
+  portfolio:
+
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
