@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to the Artificial Situation Awareness X Lab (ASAxLab)
-    text: We create tomorrow's autonomous and support systems today
+    text: The artificial cognition hub
     button: Tell Me More
     buttonlink: "#services"
 
