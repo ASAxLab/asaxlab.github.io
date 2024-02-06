@@ -29,10 +29,10 @@ en: &DEFAULT_EN
         icon: fas fa-robot
       - title: "Assistance Systems"
         desc: "To support and assist a user in all situations in a best possible anner requires the Siuation Awareness capability"
-        icon: fab fa-handshake-angle
+        icon: fas fa-parachute-box
       - title: "Adjacent Technologies and Applications"
         desc: "The application areas and domains we are working in are widely distributed from certifiably-safe autonomous systems, over evacuation assistance systems up to health care systes"
-        icon: fab fa-users-gear
+        icon: fas fa-users-gear
 
   portfolio:
     title: "Portfolio"
