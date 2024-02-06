@@ -30,6 +30,9 @@ en: &DEFAULT_EN
       - title: "Assistance Systems"
         desc: "To support and assist a user in all situations in a best possible anner requires the Siuation Awareness capability"
         icon: fas fa-parachute-box
+      - title: "System Safety"
+        desc: "The application of Autonomous and Assistance systems in real-world scenarios requires consideration of safety aspects throughout the entire syste lifetime"
+        icon: fas fa-user-shield
       - title: "Adjacent Technologies and Applications"
         desc: "The application areas and domains we are working in are widely distributed from certifiably-safe autonomous systems, over evacuation assistance systems up to health care systes"
         icon: fas fa-globe
