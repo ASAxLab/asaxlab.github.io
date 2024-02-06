@@ -11,19 +11,19 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to Artificial Situation Awareness X Lab
-    text: It's Nice To Meet You
+    title: Welcome to the Artificial Situation Awareness X Lab (ASAxLab)
+    text: We create tomorrow's autonomous and support systems today
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Competence"
+    text: "and research focus"
     section: services
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-head-side-gear #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
