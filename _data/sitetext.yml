@@ -98,8 +98,8 @@ en: &DEFAULT_EN
   team:
     title: "OUR TEAM"
     text: ""
-    title_past: "Past contributors"
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title_past: "Privious contributors"
+    subtext: # Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people_active:
       - name: "Arezoo Sarkheyli-Hägele"
