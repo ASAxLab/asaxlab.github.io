@@ -98,19 +98,20 @@ en: &DEFAULT_EN
   team:
     title: "OUR TEAM"
     text: ""
+    title_past: "Past contributors"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
-    people:
+    people_active:
       - name: "Arezoo Sarkheyli-Hägele"
         role: "Director"
         image: assets/img/team/ai3467.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          #- url: https://twitter.com
+          #  icon: fab fa-twitter
+          #- url: https://facebook.com
+          #  icon: fab fa-facebook-f
+          #- url: https://linkedin.com
+          #  icon: fab fa-linkedin-in
       - name: "Georg Hägele"
         role: "Asossiated Director"
         image: assets/img/team/georg.jpg
@@ -131,16 +132,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Arezoo Sarkheyli-Hägele"
-        role: "Director"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+    people_past:
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
