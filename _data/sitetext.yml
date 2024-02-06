@@ -18,11 +18,11 @@ en: &DEFAULT_EN
 
   services:
     title: "Competence"
-    text: "and research focus"
+    text: "and Research Focus"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Machine Learning"
+        desc: "We are experts in the area of Artificial Intellingence and Machine Leraning, and continue to explore related research topics and their application for Artificial Situation Awareness"
         icon: fas fa-brain #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
