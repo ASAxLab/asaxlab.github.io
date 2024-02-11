@@ -5,9 +5,9 @@ caption: #what displays in the portfolio grid:
   thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/saag.jpg
   
 #what displays when the item is clicked:
-title: Evacuation assistance system
-subtitle: This project aims to design a practical evacuation assistance system for evacuation leaders and teams to improve their situation awareness in emergencies through a mobile application.
-image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/evac1.jpg  #main image, can be a link or a file in assets/img/portfolio
+title: Situation Awareness-based Attention Guidance
+subtitle: Situation Awareness-based Attention Guidance (SAAG) is aimed at developing a novel Situation Awareness component (SAc) for an Attention Guidance system to improve human situation awareness in complex environments and tasks. 
+image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/saag.jpg
 alt: image alt text
 
 ---
