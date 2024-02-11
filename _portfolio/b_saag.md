@@ -19,10 +19,11 @@ The SAc outputs a situation-action space considering the user preferences, goals
 
 This project builds on components developed in the context of the Augmented Attention (AA) project run by the former Egocentric Interaction (EI) research group at Malmö University.
 
+<!--
 The project aims for both short-term scientific and long-term industrial and societal impact. It is revealed as a human assistance system prototype for complex situations. 
 In addition, it has concrete contributions to artificial situation awareness to be published in academic venues covering human-computer interaction, situation awareness, and AR games. 
 The most immediate societal impact of the developed SAc will probably be embedded in persuasive technologies for reaching long-term behavioral change for individuals and society in the areas of healthcare, safety, and climate change.
-
+-->
 
 {:.list-inline} 
 - Date: 
