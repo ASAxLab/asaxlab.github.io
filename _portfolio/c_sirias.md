@@ -25,5 +25,5 @@ One of the research questions is whether the safety standards-oriented hazards a
 
 | Author									| Title				| Publisher     |     Year	|
 | :---										| :---				| :---	        | :---		|
-| G. H&auml;gele, A. Sarkheyli-H&auml;gele		| 	|		|	2020		|
+| G. H&auml;gele, A. Sarkheyli-H&auml;gele		| Situational risk assessment within safety-driven behavior management in the context of UAS 	|	The 2020 International Conference on Unmanned Aircraft Systems	|	2020		|
 
