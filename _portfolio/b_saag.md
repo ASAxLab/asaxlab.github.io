@@ -23,7 +23,7 @@ The most immediate societal impact of the developed SAc will probably be embedde
 
 {:.list-inline} 
 - Date: 
-- Contributors: A. Sarkheyli-Hägele, J. Font, R. Malekian, D. Kadish, T. Pederson, G. Hägele
+- Contributors: A. Sarkheyli-H&auml;gele, J. Font, R. Malekian, D. Kadish, T. Pederson, G. H&auml;gele
 - Funded: The Crafoord foundation
 - Related Publication:
 

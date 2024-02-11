@@ -24,7 +24,7 @@ The focus of this application is the evacuation of buildings with large spaces a
 
 {:.list-inline} 
 - Date: 
-- Contributors: A. Sarkheyli-Hägele, J. Holmberg, R. Malekian, J. Persson. G. Hägele
+- Contributors: A. Sarkheyli-H&auml;gele, J. Holmberg, R. Malekian, J. Persson. G. H&auml;gele
 - Funded: The Crafoord foundation
 - Related Publication:
 
