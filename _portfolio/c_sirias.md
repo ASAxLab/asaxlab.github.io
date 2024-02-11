@@ -19,9 +19,9 @@ This project investigates and applies novel approaches related to Safety-Driven 
 One of the research questions is whether the safety standards-oriented hazards analysis and the risk assessment approach can be combined with the machine learning-based situation recognition.
 
 {:.list-inline} 
-- Date: 
-- Contributors: G. H&auml;gele, A. Sarkheyli-H&auml;gele
-- Related Publication:
+- **Date**: 
+- **Contributors**: G. H&auml;gele, A. Sarkheyli-H&auml;gele
+- **Related Publication**:
 
 | Author									| Title				| Publisher     |     Year	|
 | :---										| :---				| :---	        | :---		|

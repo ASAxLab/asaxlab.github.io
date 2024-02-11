@@ -22,10 +22,10 @@ In addition, it has concrete contributions to artificial situation awareness to 
 The most immediate societal impact of the developed SAc will probably be embedded in persuasive technologies for reaching long-term behavioral change for individuals and society in the areas of healthcare, safety, and climate change.
 
 {:.list-inline} 
-- Date: 
-- Contributors: A. Sarkheyli-H&auml;gele, J. Font, R. Malekian, D. Kadish, T. Pederson, G. H&auml;gele
-- Funded: The Crafoord foundation
-- Related Publication:
+- **Date**: 
+- **Contributors**: A. Sarkheyli-H&auml;gele, J. Font, R. Malekian, D. Kadish, T. Pederson, G. H&auml;gele
+- **Funded**: The Crafoord foundation
+- **Related Publication**:
 
 | Author									| Title				| Publisher     |     Year	|
 | :---										| :---				| :---	        | :---		|
