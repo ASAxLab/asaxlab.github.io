@@ -17,6 +17,10 @@ The Situation Awareness-based Attention Guidance (SAAG) system, focusing on SAc,
 The awareness emerges from relating knowledge about the environment, human goals, and objectives. Accordingly, the SAc will mimic this process artificially through a novel integration of four functional modules responsible for perception, situation recognition, intention recognition, and projection. 
 The SAc outputs a situation-action space considering the user preferences, goals, and intentions used as input for decision-making.
 
+The project aims for both short-term scientific and long-term industrial and societal impact. It is revealed as a human assistance system prototype for complex situations. 
+In addition, it has concrete contributions to artificial situation awareness to be published in academic venues covering human-computer interaction, situation awareness, and AR games. 
+The most immediate societal impact of the developed SAc will probably be embedded in persuasive technologies for reaching long-term behavioral change for individuals and society in the areas of healthcare, safety, and climate change.
+
 {:.list-inline} 
 - Date: 
 - Contributors: 
