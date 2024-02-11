@@ -5,8 +5,8 @@ caption: #what displays in the portfolio grid:
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Evacuation assistance system
+subtitle: This project aims to design a practical evacuation assistance system for evacuation leaders to improve their situation awareness in emergencies through a mobile application.
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
