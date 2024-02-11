@@ -1,8 +1,8 @@
 ---
-title: Situation Awareness-based Attention Guidance
-subtitle: SAAG in Augmented Reality applications
-image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/saag.jpg
-alt: Shirts on a hanger
+caption: #what displays in the portfolio grid:
+  title: Situation Awareness-based Attention Guidance
+  image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/saag.jpg
+  alt: Shirts on a hanger
 
 caption:
   title: Threads
