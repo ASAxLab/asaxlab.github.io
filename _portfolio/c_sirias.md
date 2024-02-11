@@ -25,7 +25,7 @@ One of the research questions is whether the safety standards-oriented hazards a
 
 | Author									| Title				| Publisher     |     Year	|
 | :---										| :---				| :---	        | :---		|
-| G. H&auml;gele, A. Sarkheyli-H&auml;gele		| Situational risk assessment within safety-driven behavior management in the context of UAS 	|	The 2020 International Conference on Unmanned Aircraft Systems	|	2020		|
-| G. H&auml;gele, A. Sarkheyli-H&auml;gele		| Situational hazard recognition and risk assessment within safety-driven behavior management in the context of automated driving 	|	IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)	|	2020		|
-| G. H&auml;gele, A. Sarkheyli-H&auml;gele		| Situational Decision Making Using Situation Modeling and Deep Learning 	|	IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)	|	2021		|
+| G. H&auml;gele, A. Sarkheyli-H&auml;gele	&nbsp;	| Situational risk assessment within safety-driven behavior management in the context of UAS &nbsp;	|	The 2020 International Conference on Unmanned Aircraft Systems &nbsp;	|	2020		|
+| G. H&auml;gele, A. Sarkheyli-H&auml;gele	&nbsp;	| Situational hazard recognition and risk assessment within safety-driven behavior management in the context of automated driving &nbsp;	|	IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)	&nbsp;|	2020		|
+| G. H&auml;gele, A. Sarkheyli-H&auml;gele	&nbsp;	| Situational Decision Making Using Situation Modeling and Deep Learning &nbsp;	|	IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)  &nbsp;	|	2021		|
 
