@@ -126,13 +126,13 @@ en: &DEFAULT_EN
         social:
           
     people_past:
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "David Kadish"
+        role: "Researcher"
         image: assets/img/team/500x500.jpg
         social:
           
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Jose Font"
+        role: "Advisor"
         image: assets/img/team/500x500.jpg
         social:
           
