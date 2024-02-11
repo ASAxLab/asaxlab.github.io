@@ -23,5 +23,6 @@ One of the research questions is whether the safety standards-oriented hazards a
 - Contributors: 
 - Related Publication:
 
-
+| Author									| Title				| Publisher     |     Year	|
+| :---										| :---				| :---	        | :---		|
 
