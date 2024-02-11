@@ -1,13 +1,13 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Situational Risk Assessment
+  title: Supervisor-based Safe Behavior Assurancet
   subtitle: Safe decision making through situational Risk Assessment
-  thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/sirias1.jpg
+  thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/monisafe1.jpg
   
 #what displays when the item is clicked:
 title: Situational Risk Assessment
 subtitle: Situational risk assessment in open and non-predictive environments to support decision making and ...
-image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/sirias1.jpg
+image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/monisafe1.jpg
 alt: image alt text
 
 ---
