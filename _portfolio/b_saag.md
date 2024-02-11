@@ -11,7 +11,8 @@ image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/i
 alt: image alt text
 
 ---
-
+Situation Awareness-based Attention Guidance (SAAG) aims to develop a novel Situation Awareness component (SAc) for an Attention Guidance system to improve human situation awareness in complex environments and tasks. 
+The Situation Awareness-based Attention Guidance (SAAG) system, focusing on SAc, is realized and evaluated for the players of an Augmented Reality (AR) tabletop game. Situation awareness is crucial for decision-making and action-taking.
 
 {:.list-inline} 
 - Date: 
