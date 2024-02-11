@@ -88,9 +88,9 @@ en: &DEFAULT_EN
       - title: "Malmö Univerity"
         url: https://https://mau.se/en
         logo: assets/img/clients/malmo-universitet.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
+      - title: "Husqvarna Group"
+        url: https://husqvarna.com
+        logo: assets/img/clients/husqvarna-group.jpg
       - title: "themeforest"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/themeforest.jpg
