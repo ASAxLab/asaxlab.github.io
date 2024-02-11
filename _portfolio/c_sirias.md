@@ -25,5 +25,5 @@ One of the research questions is whether the safety standards-oriented hazards a
 
 | Author									| Title				| Publisher     |     Year	|
 | :---										| :---				| :---	        | :---		|
-| 		| 	|		|	2020		|
+| G. Hägele, A. Sarkheyli-Hägele		| 	|		|	2020		|
 
