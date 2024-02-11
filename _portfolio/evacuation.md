@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  title: Evacuation assistance system
+  subtitle: Improving team situation awareness
+  thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/evac1.jpg
   
 #what displays when the item is clicked:
 title: Evacuation assistance system
-subtitle: This project aims to design a practical evacuation assistance system for evacuation leaders to improve their situation awareness in emergencies through a mobile application.
+subtitle: This project aims to design a practical evacuation assistance system for evacuation leaders and teams to improve their situation awareness in emergencies through a mobile application.
 image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/evac1.jpg  #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
