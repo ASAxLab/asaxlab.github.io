@@ -11,15 +11,17 @@ image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/i
 alt: image alt text
 
 ---
-Evacuating the buildings during various emergencies, such as fire or terrorist attacks, requires high awareness of the environment, quick decision-making, and immediate action. 
-This project aims to design a practical evacuation assistance system for evacuation leaders to improve their situation awareness in emergencies through a mobile application. 
-Furthermore, a proof of concept is considered a part of this project. Using the proposed system, the leaders will be aware of their situations in real-time, such as environmental hazards, evacuation procedures, extra assistance requests.
+Situation Awareness-based Attention Guidance (SAAG) is aimed at developing a novel Situation Awareness component (SAc) for an Attention Guidance system to improve human situation awareness in complex environments and tasks. 
+The Situation Awareness-based Attention Guidance (SAAG) system, with a focus on SAc, is realized and evaluated for the players of an Augmented Reality (AR) tabletop game. Situation awareness is crucial for decision-making and action-taking.
 
-Accordingly, a proper sensory infrastructure will be proposed to support indoor positioning in the building. This system's primary goal is to improve the situation awareness of an evacuation team which composed of several individual evacuation leaders. 
-Accordingly, a team situation awareness module will be proposed as a part of assistance system.
+The awareness emerges from relating knowledge about the environment, human goals, and objectives. Accordingly, the SAc will mimic this process artificially through a novel integration of four functional modules responsible for perception, situation recognition, intention recognition, and projection. 
+The SAc outputs a situation-action space considering the user preferences, goals, and intentions used as input for decision-making.
 
-However, both evacuation leaders and occupants can be users of the application. The occupants can use the application to inform the evacuation leaders about their status and be tracked by the leaders if it is necessary. 
-The focus of this application is the evacuation of buildings with large spaces and large numbers of occupants, such as schools, business buildings, and shopping malls, in emergencies.
+This project builds on components which are currently developed in the context of the Augmented Attention (AA) project run by the forer Egocentric Interaction (EI) research group at Malmö University.
+
+The project aims for both short-term scientific and long-term industrial and societal impact. It is revealed in the form of a human assistance system prototype for complex situations. 
+In addition, it has concrete contributions to artificial situation awareness to be published in academic venues covering human-computer interaction, situation awareness, and AR games. 
+The most immediate societal impact of the developed SAc will probably be embedded in persuasive technologies for reaching long-term behavioural change, for individuals and society, in the areas of healthcare, safety, and climate change.
 
 
 {:.list-inline} 
