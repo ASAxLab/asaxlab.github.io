@@ -21,7 +21,6 @@ Accordingly, a team situation awareness module will be proposed as a part of ass
 However, both evacuation leaders and occupants can be users of the application. The occupants can use the application to inform the evacuation leaders about their status and be tracked by the leaders if it is necessary. 
 The focus of this application is the evacuation of buildings with large spaces and large numbers of occupants, such as schools, business buildings, and shopping malls, in emergencies.
 
-optional info list (delete if not using):
 
 {:.list-inline} 
 - Date: 
