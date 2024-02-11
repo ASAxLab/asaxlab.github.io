@@ -23,6 +23,11 @@ The most immediate societal impact of the developed SAc will probably be embedde
 
 {:.list-inline} 
 - Date: 
-- Contributors: 
+- Contributors: A. Sarkheyli-Hägele, J. Font, R. Malekian, D. Kadish, T. Pederson, G. Hägele
+- Funded: The Crafoord foundation
 - Related Publication:
+
+| Author									| Title				| Publisher     |     Year	|
+| :---										| :---				| :---	        | :---		|
+| D. Kadish et. al. &nbsp; | Towards Situation Awareness and Attention Guidance in a Multiplayer Environment using Augmented Reality and Carcassonne &nbsp;	|	2022 Annual Symposium on Computer-Human Interaction in Play &nbsp;	|	2022		|
 
