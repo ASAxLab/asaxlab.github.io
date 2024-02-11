@@ -1,8 +1,8 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Evacuation assistance system
-  subtitle: Improving team situation awareness
-  thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/evac1.jpg
+  title: Situation Awareness-based Attention Guidance
+  subtitle: Attenion Guidance in Augumented Reality applications
+  thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/saag.jpg
   
 #what displays when the item is clicked:
 title: Evacuation assistance system
