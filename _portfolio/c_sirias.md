@@ -22,3 +22,10 @@ One of the research questions is whether the safety standards-oriented hazards a
 - Date: 
 - Contributors: 
 - Related Publication:
+
+| Author									| Title       | Publisher     |     Year   |
+| :---										| :----       | :-----        | :------	 |
+| Hägele, Georg; Sarkheyli-Hägele, Arezoo	 | Situational risk assessment within safety-driven behavior management in the context of UAS       | The 2020 International Conference on Unmanned Aircraft Systems  |		2020	|
+| Hägele, Georg; Sarkheyli-Hägele, Arezoo   | Situational hazard recognition and risk assessment within safety-driven behavior management in the context of automated driving       | IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)    |		2020	|
+| Hägele, Georg; Sarkheyli-Hägele, Arezoo   | Situational Decision Making Using Situation Modeling and Deep Learning        |  IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)     |		2021	|
+
