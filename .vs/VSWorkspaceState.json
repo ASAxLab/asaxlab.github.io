@@ -1,14 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\css",
     "\\assets\\img",
-    "\\assets\\js",
-    "\\_portfolio",
+    "\\assets\\img\\portfolio",
+    "\\_data",
+    "\\_includes",
+    "\\_layouts",
+    "\\_sass",
     "\\_sass\\base",
     "\\_sass\\components",
     "\\_sass\\layout"
   ],
-  "SelectedNode": "\\_portfolio\\example.md",
+  "SelectedNode": "\\_data\\sitetext.yml",
   "PreviewInSolutionExplorer": false
 }
