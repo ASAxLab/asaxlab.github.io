@@ -119,11 +119,18 @@ en: &DEFAULT_EN
         role: "Asossiated Director"
         image: assets/img/team/georg.jpg
         social:
-         
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+
+      - name: "Magnus Johnsson"
+        role: "Academic Advisor"
         image: assets/img/team/500x500.jpg
         social:
+         
+      - name: "Johan Holmberg"
+        role: "Technical Lead"
+        image: assets/img/team/ac8647.jpg
+        social:
+
+      
           
     people_past:
       - name: "David Kadish"
