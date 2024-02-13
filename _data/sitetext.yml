@@ -45,14 +45,14 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "The idea of a research lab is born"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "2013 - 2017"
+        desc: "Conducting research on cognitive technical systems, the idea of a research lab dedicated to the Artificial Situation Awareness is borg"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "An Agency is Born"
@@ -76,8 +76,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "ASAxLab"
+    body: "We are a team of researchers strongly dedicated to providing high quality results to our partners, customers, and sponsors."
     section: about
 
   clients:
@@ -139,7 +139,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "+0046760345675"
+    text: "+0046760345675 <br>"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
