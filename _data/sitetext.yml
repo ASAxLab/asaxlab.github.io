@@ -86,7 +86,7 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Malmö Univerity"
-        url: https://https://mau.se/en
+        url: https://mau.se/en/malmo-university/
         logo: assets/img/clients/malmo-universitet.jpg
       - title: "Husqvarna Group"
         url: https://husqvarna.com
