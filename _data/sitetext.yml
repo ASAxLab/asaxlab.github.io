@@ -77,7 +77,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "ASAxLab"
-    body: "We are a team of researchers strongly dedicated to providing high quality results to our partners, customers, and sponsors."
+    body: "We are a team of researchers strongly dedicated to providing high-quality results to our partners, customers, and sponsors."
     section: about
 
   clients:
