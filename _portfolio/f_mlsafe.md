@@ -12,14 +12,14 @@ alt: image alt text
 
 ---
 This project is dedicated to tackling the crucial challenge of guaranteeing the safety and reliability of machine learning (ML) algorithms across diverse applications. 
-With ML algorithms becoming integral to sectors like healthcare, finance, and transportation, ensuring their safety is essential for widespread adoption, trust, and legal compliance.
+With ML algorithms becoming integral to sectors like healthcare, machinery, and transportation, ensuring their safety is essential for widespread adoption, trust, and legal compliance.
 
 Our research delves into advanced methodologies, including uncertainty estimation and conformal prediction, to enhance ML algorithms' monitoring and runtime verification. 
-We expect continuous monitoring of algorithmic performance and behavior, which can enable the detection of anomalies and deviations from expected norms. 
-This proactive approach will allow timely interventions to uphold safety and reliability standards, thus bolstering trust in ML systems.
+We expect continuous monitoring of algorithmic performance and behavior to enable the detection of anomalies and safety-critical deviations. 
+This proactive approach will allow timely interventions to uphold systems' safety and reliability, thus bolstering trust in ML systems and their use within safety-critical applications.
 
 
 {:.list-inline} 
-- **Date**: 2024 - ongiong
+- **Date**: 2023 - ongiong
 - **Contributors**: G. H&auml;gele, A. Sarkheyli-H&auml;gele
 - **Related Publication**:

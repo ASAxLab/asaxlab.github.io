@@ -19,3 +19,7 @@ Using a combination of machine learning techniques, data analysis, and contextua
 - **Date**: 2024 - ongiong
 - **Contributors**: A. Sarkheyli-H&auml;gele, G. H&auml;gele
 - **Related Publication**:
+
+| Author									| Title				| Publisher     |     Year	|
+| :---										| :---				| :---	        | :---		|
+| G. H&auml;gele, A. Sarkheyli-H&auml;gele	&nbsp;	| Situational Decision Making Using Situation Modeling and Deep Learning &nbsp;	|	IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)  &nbsp;	|	2021		|
