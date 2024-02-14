@@ -25,6 +25,7 @@ The most immediate societal impact of the developed SAc will probably be embedde
 - **Date**: 
 - **Contributors**: A. Sarkheyli-H&auml;gele, J. Font, R. Malekian, D. Kadish, T. Pederson, G. H&auml;gele
 - **Funded**: The Crafoord foundation
+- **External links**: [Video](https://www.youtube.com/watch?v=qs5j1sf1jGY&t=8s), [MAU Game Lab](https://games.mau.se/research/situation-awareness-and-attention-guidance-carcassonne/), [MAU Project page](https://mau.diva-portal.org/smash/project.jsf?pid=project%3A2642&dswid=6177)
 - **Related Publication**:
 
 | Author									| Title				| Publisher     |     Year	|
