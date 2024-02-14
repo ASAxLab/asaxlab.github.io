@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Safety Assurance of ML-Based Algorithms
   subtitle: Mitigating Risks and Ensuring Reliability in AI System
-  thumbnail: /assets/img/portfolio/ImplicitObjectRela.jpg
+  thumbnail: /assets/img/portfolio/mlsafe1.jpg
   
 #what displays when the item is clicked:
 title: Safety Assurance of ML-Based Algorithms
 subtitle: Mitigating Risks and Ensuring Reliability in AI System
-image: /assets/img/portfolio/ImplicitObjectRela.jpg
+image: /assets/img/portfolio/mlsafe1.jpg
 alt: image alt text
 
 ---
