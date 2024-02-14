@@ -22,19 +22,19 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Machine Learning"
-        desc: "We are experts in the area of Artificial Intellingence and Machine Leraning, and continue to explore related research topics and their application for Artificial Situation Awareness"
+        desc: "We are experts in Artificial Intelligence and Machine Learning and continue to explore related research topics and their application for Artificial Situation Awareness."
         icon: fas fa-brain #find more at https://fontawesome.com/icons
       - title: "Autonomous Systems"
-        desc: "Situation Awareness is a key-aspect of human intelligence and a prerequisite for truly Autonomous Systes"
+        desc: "Situation Awareness is a key aspect of human intelligence and a prerequisite for truly Autonomous Systems."
         icon: fas fa-robot
       - title: "Assistance Systems"
-        desc: "To support and assist a user in all situations in a best possible anner requires the Siuation Awareness capability"
+        desc: "To support and assist a user in all situations in the best possible manner requires the Situation Awareness capability."
         icon: fas fa-parachute-box
       - title: "System Safety"
-        desc: "The application of Autonomous and Assistance systems in real-world scenarios requires consideration of safety aspects throughout the entire syste lifetime"
+        desc: "Applying Autonomous and Assistance systems in real-world scenarios requires consideration of safety aspects throughout the entire system's lifetime."
         icon: fas fa-user-shield
       - title: "Adjacent Technologies and Applications"
-        desc: "The application areas and domains we are working in are widely distributed from certifiably-safe autonomous systems, over evacuation assistance systems up to health care systes"
+        desc: "Our application areas and domains are widely distributed, from certifiably safe autonomous systems over evacuation assistance systems to health care systems."
         icon: fas fa-globe
 
   portfolio:
