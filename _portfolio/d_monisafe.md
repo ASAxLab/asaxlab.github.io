@@ -22,6 +22,7 @@ One of the research questions is whether the safety standards-oriented hazards a
 - **Date**: 2013 - 2017
 - **Contributors**: G. H&auml;gele
 - **Related Publication**:
+
 | Author									| Title				| Publisher     |     Year	|
 | :---										| :---				| :---	        | :---		|
 | G. H&auml;gele, D. S&ouml;ffker	&nbsp;	| Risk Areas Determination for Autonomous-and Semi-autonomous Aerial Systems Considering Run-Time Technical Reliability Assessment &nbsp;	|	Journal of Intelligent & Robotic Systems  &nbsp;	|	2019		|
