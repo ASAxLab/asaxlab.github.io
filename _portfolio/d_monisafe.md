@@ -11,9 +11,9 @@ image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/i
 alt: image alt text
 
 ---
-Autonomous or semi-autonomous systems are used in different application domains to simplify or assist humans tasks. In this context, their behavior has to be verifiably safe. 
-This projct focuses on techniques for specification and desing of a supevirory safety unit to ensure overall system's safe behavior. 
-In this context techniques for run-time risk area generation and adjustment, situational hazard analysis and risk assessment, run-time technical system's reliability assessment, and emergency behavior modeling are investigated. 
+Autonomous or semi-autonomous systems are used in different application domains to simplify or assist human tasks. 
+In this context, their behavior has to be verifiably safe. This project focuses on techniques for specifying and designing a supervisory safety unit to ensure the overall system’s safe behavior. 
+This includes methods for run-time risk area generation and adjustment, situational hazard analysis and risk assessment, run-time technical system reliability assessment, and emergency behavior modeling are investigated. 
 
 {:.list-inline} 
 - **Date**: 2013 - 2017
