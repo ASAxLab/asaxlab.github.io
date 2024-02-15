@@ -30,7 +30,7 @@ author     : Georg Hägele
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-RX6TY8G9BB #Google Analytics tracking code here
 
 collections:
   portfolio:
