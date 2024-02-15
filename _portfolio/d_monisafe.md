@@ -13,7 +13,7 @@ alt: image alt text
 ---
 Autonomous or semi-autonomous systems are used in different application domains to simplify or assist humans tasks. In this context, their behavior has to be verifiably safe. 
 This projct focuses on techniques for specification and desing of a supevirory safety unit to ensure overall system’s safe behavior. 
-In this context techniques for run-time risk area generation and adjustment, situational hazard analysis and risk assessment, run-time technical system’s reliability assessment, and emergency behavior modeling are investigated.
+In this context techniques for run-time risk area generation and adjustment, situational hazard analysis and risk assessment, run-time technical system’s reliability assessment, and emergency behavior modeling are investigated. 
 
 {:.list-inline} 
 - **Date**: 2013 - 2017
