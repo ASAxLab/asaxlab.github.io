@@ -12,7 +12,7 @@ alt: image alt text
 
 ---
 Autonomous or semi-autonomous systems are used in different application domains to simplify or assist human tasks. 
-In this context, their behavior has to be verifiably safe. This project focuses on techniques for specifying and designing a supervisory safety unit to ensure the overall system’s safe behavior. 
+In this context, their behavior has to be verifiably safe. This project focuses on techniques for specifying and designing a supervisory safety unit to ensure the overall system's safe behavior. 
 This includes methods for run-time risk area generation and adjustment, situational hazard analysis and risk assessment, run-time technical system reliability assessment, and emergency behavior modeling are investigated. 
 
 {:.list-inline} 
