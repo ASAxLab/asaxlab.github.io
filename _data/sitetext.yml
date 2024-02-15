@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Ongoing and past projects"
+    text: "Ongoing and past projects (selection)"
     section: portfolio
     closebutton: "Close Project"
 
