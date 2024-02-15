@@ -122,7 +122,7 @@ en: &DEFAULT_EN
 
       - name: "Magnus Johnsson"
         role: "Academic Advisor"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/MagnusJohnsson_ProfilPicture.png
         social:
          
       - name: "Johan Holmberg"
