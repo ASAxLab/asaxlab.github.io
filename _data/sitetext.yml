@@ -94,9 +94,9 @@ en: &DEFAULT_EN
       - title: "University of Duisburg-Essen"
         url: https://www.uni-due.de/en/index.php
         logo: assets/img/clients/logo-uni-duisburg-essen.jpg
-     - title: "Kristianstad University"
-        url: https://www.hkr.se/en/
-        logo: assets/img/clients/hkr.png
+     #- title: "Kristianstad University"
+     #   url: https://www.hkr.se/en/
+     #   logo: assets/img/clients/hkr.png
       #- title: "Creative Market"
       #  url: https://github.com/raviriley/agency-jekyll-theme
       #  logo: assets/img/clients/creative-market.jpg
