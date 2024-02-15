@@ -23,3 +23,7 @@ This includes methods for run-time risk area generation and adjustment, situatio
 | Author									| Title				| Publisher     |     Year	|
 | :---										| :---				| :---	        | :---		|
 | G. H&auml;gele, D. S&ouml;ffker	&nbsp;	| Risk Areas Determination for Autonomous-and Semi-autonomous Aerial Systems Considering Run-Time Technical Reliability Assessment &nbsp;	|	Journal of Intelligent & Robotic Systems  &nbsp;	|	2019		|
+| G. H&auml;gele, D. S&ouml;ffker	&nbsp;	| Safety unit-based safe behavior assurance for autonomous and semi-autonomous aerial systems: Requirements, concept, and simulation results &nbsp;	|	IEEE Intelligent Vehicles Symposium  &nbsp;	|	2017		|
+| G. H&auml;gele, D. S&ouml;ffker	&nbsp;	| System safety surveillance and control system concept for autonomous or semi-autonomous systems fall-back layer realization &nbsp;	|	Dynamic Systems and Control Conference  &nbsp;	|	2016		|
+| G. H&auml;gele, D. S&ouml;ffker	&nbsp;	| Strictly Formalized Situation-Operator-Modeling technique for fall-back layer modeling for autonomous or semi-autonomous systems requiring software-based fail-safe behavior &nbsp;	|	IEEE International Conference on Systems, Man, and Cybernetics (SMC)  &nbsp;	|	2016		|
+| G. H&auml;gele, D. S&ouml;ffker	&nbsp;	| Fall-back layer concept for autonomous or semi-autonomous systems and processes: requirements, concepts, and first tests &nbsp;	|	IEEE International Conference on Systems, Man, and Cybernetics (SMC)  &nbsp;	|	2016		|
