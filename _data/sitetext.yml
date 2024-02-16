@@ -133,9 +133,14 @@ en: &DEFAULT_EN
         image: assets/img/team/ac8647.jpg
         social:
 
+      - name: "Erdal Akin"
+        role: "Senior Researcher"
+        image: assets/img/team/photoErdal.jpg
+        social:
+
       - name: "Raoof Doorashi"
         role: "Project Assistant"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/Raoof.jpg
         social:
 
       - name: "Md Mahbubur Rahman"
@@ -148,17 +153,19 @@ en: &DEFAULT_EN
         image: assets/img/team/500x500.jpg
         social:
 
+        
+
       
           
     people_past:
       - name: "David Kadish"
         role: "Researcher"
-        image: assets/img/team/500x500.jpg
+        #image: assets/img/team/500x500.jpg
         social:
           
       - name: "Jose Font"
         role: "Advisor"
-        image: assets/img/team/500x500.jpg
+        #image: assets/img/team/500x500.jpg
         social:
           
 
