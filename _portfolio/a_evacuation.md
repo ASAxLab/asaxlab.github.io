@@ -26,7 +26,9 @@ The focus of this application is the evacuation of buildings with large spaces a
 - **Date**: 
 - **Contributors**: A. Sarkheyli-H&auml;gele, J. Holmberg, R. Malekian, J. Persson. G. H&auml;gele
 - **Funded**: The Crafoord foundation
+- **External links**: [MAU Project page](https://mau.se/forskning/projekt/evacuation-assistance-system/)
 - **Related Publication**:
 
 | A. Sarkheyli-H&auml;gele, J. Holmberg, G. H&auml;gele	&nbsp;	| Situation Awareness-based Evacuation Assistance System &nbsp;	|	IEEE World Forum on Public Safety Technology  &nbsp;	|	2024		|
+
 
