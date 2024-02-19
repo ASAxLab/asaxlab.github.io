@@ -150,7 +150,7 @@ en: &DEFAULT_EN
 
       - name: "Erik Svensson"
         role: "Research Assistant"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/erik.jpg
         social:
 
       - name: "Alberto Biscalchin"
