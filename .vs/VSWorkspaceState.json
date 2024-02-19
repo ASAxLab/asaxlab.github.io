@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github\\ISSUE_TEMPLATE",
+    "\\assets",
     "\\assets\\img",
-    "\\assets\\img\\portfolio",
+    "\\assets\\img\\clients",
     "\\_data",
     "\\_includes",
     "\\_layouts",
-    "\\_sass",
-    "\\_sass\\base",
-    "\\_sass\\components",
-    "\\_sass\\layout"
+    "\\_portfolio",
+    "\\_sass"
   ],
-  "SelectedNode": "\\_data\\sitetext.yml",
+  "SelectedNode": "\\_portfolio\\a_evacuation.md",
   "PreviewInSolutionExplorer": false
 }

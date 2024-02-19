@@ -153,6 +153,11 @@ en: &DEFAULT_EN
         image: assets/img/team/500x500.jpg
         social:
 
+      - name: "Alberto Biscalchin"
+        role: "Research Assistant"
+        image: assets/img/team/alberto.jpg
+        social:
+
         
 
       
