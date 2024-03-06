@@ -97,6 +97,9 @@ en: &DEFAULT_EN
       - title: "Kristianstad University"
         url: https://www.hkr.se/en/
         logo: assets/img/clients/hkr.png
+      - title: "Pitt HexAI"
+        url: https://pitthexai.github.io/index.html
+        logo: assets/img/clients/Pitthexai_logo.png
       #- title: "Creative Market"
       #  url: https://github.com/raviriley/agency-jekyll-theme
       #  logo: assets/img/clients/creative-market.jpg
@@ -105,6 +108,7 @@ en: &DEFAULT_EN
     title: "OUR TEAM"
     text: ""
     title_past: "Privious contributors"
+    title_external: "External collaborators"
     subtext: # Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people_active:
@@ -158,7 +162,12 @@ en: &DEFAULT_EN
         image: assets/img/team/alberto.jpg
         social:
 
-        
+    people_external:
+      - name: "Ahmad P. Tafti"
+        role: "Pitt Health + Explainable AI (Pitt HexAI) Research Laboratory"
+        #image: assets/img/team/500x500.jpg
+        social:
+              
 
       
           
