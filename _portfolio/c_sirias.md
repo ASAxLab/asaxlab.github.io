@@ -21,7 +21,7 @@ One of the research questions is whether the safety standards-oriented hazards a
 {:.list-inline} 
 - **Date**: 
 - **Contributors**: G. H&auml;gele, A. Sarkheyli-H&auml;gele
-- **Related Publication**:
+- **Related Publication**: 
 
 | Author									| Title				| Publisher     |     Year	|
 | :---										| :---				| :---	        | :---		|
