@@ -142,6 +142,11 @@ en: &DEFAULT_EN
         image: assets/img/team/photoErdal.jpg
         social:
 
+      - name: "Abdelbaki Bouguerra"
+        role: "Senior Researcher"
+        image: assets/img/team/500x500.jpg
+        social:  
+
       - name: "Raoof Doorashi"
         role: "Project Assistant"
         image: assets/img/team/Raoof.jpg

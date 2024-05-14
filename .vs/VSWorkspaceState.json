@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_layouts",
+    "\\_portfolio",
+    "\\_sass",
+    "\\_sass\\components"
   ],
-  "SelectedNode": "\\C:\\Users\\Georg\\Source\\Repos\\2_asaxlab.github.io",
+  "SelectedNode": "\\_portfolio\\c_sirias.md",
   "PreviewInSolutionExplorer": false
 }
