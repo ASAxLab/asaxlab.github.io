@@ -1,11 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\img",
+    "\\assets\\img\\team",
+    "\\_data",
     "\\_layouts",
     "\\_portfolio",
     "\\_sass",
     "\\_sass\\components"
   ],
-  "SelectedNode": "\\_portfolio\\c_sirias.md",
+  "SelectedNode": "\\assets\\img\\team\\Awara.jpg",
   "PreviewInSolutionExplorer": false
 }
