@@ -28,7 +28,9 @@ The app focuses on evacuating large buildings with numerous occupants, such as s
 - **Related Publication**:
 
 | A. Sarkheyli-H&auml;gele, J. Holmberg, G. H&auml;gele	&nbsp;	| Situation Awareness-based Evacuation Assistance System &nbsp;	|	IEEE World Forum on Public Safety Technology  &nbsp;	|	2024		|
+|||||
 | G. H&auml;gele, J. Holmberg, A. Sarkheyli-H&auml;gele &nbsp;	| Towards Situation Awareness and Decision Guidance in Complex Evacuation Scenarios &nbsp;	|	IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)  &nbsp;	|	2024		|
+|||||
 | G. H&auml;gele, A. Bouguerra,  A. Sarkheyli-H&auml;gele &nbsp; | Towards the Certification of an Evacuation Assistance System Utilizing AI-based Approaches &nbsp;	|	IEEE International Symposium on Software Reliability Engineering (ISSRE)  &nbsp;	|	2024		|
 
 
