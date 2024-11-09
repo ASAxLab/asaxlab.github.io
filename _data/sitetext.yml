@@ -120,12 +120,14 @@ en: &DEFAULT_EN
           #  icon: fab fa-twitter
           #- url: https://facebook.com
           #  icon: fab fa-facebook-f
-          #- url: https://linkedin.com
-          #  icon: fab fa-linkedin-in
+          - url: https://www.linkedin.com/in/arezoo-sarkheyli-h%C3%A4gele/
+            icon: fab fa-linkedin-in
       - name: "Georg Hägele"
         role: "Asossiated Director"
         image: assets/img/team/georg4.jpg
         social:
+          - url: https://www.linkedin.com/in/dr-georg-h%C3%A4gele-523755134/
+            icon: fab fa-linkedin-in
 
       - name: "Magnus Johnsson"
         role: "Academic Advisor"
