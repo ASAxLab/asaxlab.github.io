@@ -5,7 +5,7 @@ caption: #what displays in the portfolio grid:
   thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/evac1.jpg
   
 #what displays when the item is clicked:
-title: EvacAware &#8282; Real-Time Intelligence for Coordinated Evacuations
+title: EvacAware&#8282; Real-Time Intelligence for Coordinated Evacuations
 subtitle: This project aims to design a practical evacuation assistance system for evacuation leaders and teams to improve their situation awareness in emergencies through a mobile application.
 image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/evac1.jpg  #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
@@ -22,12 +22,13 @@ The app focuses on evacuating large buildings with numerous occupants, such as s
 
 {:.list-inline} 
 - **Date**: 
-- **Contributors**: A. Sarkheyli-H&auml;gele, J. Holmberg, R. Malekian, J. Persson, G. H&auml;gele
+- **Contributors**: A. Sarkheyli-H&auml;gele, J. Holmberg, R. Malekian, J. Persson, G. H&auml;gele, E. Akin, D. Surie
 - **Funded**: The Crafoord foundation
 - **External links**: [MAU Project page](https://mau.se/forskning/projekt/evacuation-assistance-system/)
 - **Related Publication**:
 
 | A. Sarkheyli-H&auml;gele, J. Holmberg, G. H&auml;gele	&nbsp;	| Situation Awareness-based Evacuation Assistance System &nbsp;	|	IEEE World Forum on Public Safety Technology  &nbsp;	|	2024		|
-| A. Sarkheyli-H&auml;gele, J. Holmberg, G. H&auml;gele	&nbsp;	| Towards Situation Awareness and Decision Guidance in Complex Evacuation Scenarios &nbsp;	|	IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)  &nbsp;	|	2024		|
+| G. H&auml;gele &nbsp;, J. Holmberg, A. Sarkheyli-H&auml;gele 	| Towards Situation Awareness and Decision Guidance in Complex Evacuation Scenarios &nbsp;	|	IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)  &nbsp;	|	2024		|
+| G. H&auml;gele &nbsp;, A. Bougera,  A. Sarkheyli-H&auml;gele | Towards Situation Awareness and Decision Guidance in Complex Evacuation Scenarios &nbsp;	|	IEEE International Symposium on Software Reliability Engineering (ISSRE)  &nbsp;	|	2024		|
 
 
