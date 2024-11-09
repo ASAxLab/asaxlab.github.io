@@ -151,7 +151,7 @@ en: &DEFAULT_EN
         
       - name: "Dipak Surie"
         role: "Senior Researcher"
-        #image: assets/img/team/500x500.jpg
+        image: assets/img/team/500x500.jpg
         social:
 
       - name: "Alberto Biscalchin"
