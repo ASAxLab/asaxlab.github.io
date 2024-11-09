@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Georg\\source\\repos\\2_asaxlab.github.io\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Georg\\source\\repos\\2_asaxlab.github.io\\_portfolio\\a_evacuation.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_portfolio\\a_evacuation.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Georg\\source\\repos\\2_asaxlab.github.io\\_includes\\portfolio_grid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\portfolio_grid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Georg\\source\\repos\\2_asaxlab.github.io\\_data\\sitetext.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\sitetext.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +38,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "portfolio_grid.html",
+              "DocumentMoniker": "C:\\Users\\Georg\\source\\repos\\2_asaxlab.github.io\\_includes\\portfolio_grid.html",
+              "RelativeDocumentMoniker": "_includes\\portfolio_grid.html",
+              "ToolTip": "C:\\Users\\Georg\\source\\repos\\2_asaxlab.github.io\\_includes\\portfolio_grid.html",
+              "RelativeToolTip": "_includes\\portfolio_grid.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-09T11:15:35.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "a_evacuation.md",
+              "DocumentMoniker": "C:\\Users\\Georg\\source\\repos\\2_asaxlab.github.io\\_portfolio\\a_evacuation.md",
+              "RelativeDocumentMoniker": "_portfolio\\a_evacuation.md",
+              "ToolTip": "C:\\Users\\Georg\\source\\repos\\2_asaxlab.github.io\\_portfolio\\a_evacuation.md",
+              "RelativeToolTip": "_portfolio\\a_evacuation.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAD0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-09T11:15:14.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "sitetext.yml",
               "DocumentMoniker": "C:\\Users\\Georg\\source\\repos\\2_asaxlab.github.io\\_data\\sitetext.yml",
               "RelativeDocumentMoniker": "_data\\sitetext.yml",
@@ -43,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "c_sirias.md",
               "DocumentMoniker": "C:\\Users\\Georg\\source\\repos\\2_asaxlab.github.io\\_portfolio\\c_sirias.md",
               "RelativeDocumentMoniker": "_portfolio\\c_sirias.md",
@@ -55,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "index.md",
               "DocumentMoniker": "C:\\Users\\Georg\\source\\repos\\2_asaxlab.github.io\\index.md",
               "RelativeDocumentMoniker": "index.md",
