@@ -184,6 +184,26 @@ en: &DEFAULT_EN
         #image: assets/img/team/500x500.jpg
         social:
 
+      - name: "Adrian Pourlotfi"
+        role: "Research Assistant"
+        #image: assets/img/team/500x500.jpg
+        social:
+
+      - name: "Adrian Pourlotfi"
+        role: "Research Assistant"
+        #image: assets/img/team/500x500.jpg
+        social:
+
+      - name: "Annelie Xu"
+        role: "Research Assistant"
+        #image: assets/img/team/500x500.jpg
+        social:
+
+      - name: "Mustafa Abbas"
+        role: "Research Assistant"
+        #image: assets/img/team/500x500.jpg
+        social:
+
     people_external:
       - name: "Ahmad P. Tafti"
         role: "University of Pittsburgh, Pitt Health + Explainable AI (Pitt HexAI) Research Laboratory"
