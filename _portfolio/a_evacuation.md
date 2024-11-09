@@ -1,25 +1,23 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Evacuation assistance system
-  subtitle: Improving team situation awareness in complex scenarios
+  title: EvacAware
+  subtitle: Real-Time Intelligence for Coordinated Evacuations
   thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/evac1.jpg
   
 #what displays when the item is clicked:
-title: Evacuation assistance system
+title: EvacAware: Real-Time Intelligence for Coordinated Evacuations
 subtitle: This project aims to design a practical evacuation assistance system for evacuation leaders and teams to improve their situation awareness in emergencies through a mobile application.
 image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/evac1.jpg  #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Evacuating the buildings during various emergencies, such as fire or terrorist attacks, requires high awareness of the environment, quick decision-making, and immediate action. 
-This project aims to design a practical evacuation assistance system for evacuation leaders to improve their situation awareness in emergencies through a mobile application. 
-Furthermore, a proof of concept is considered a part of this project. Using the proposed system, the leaders will be aware of their situations in real-time, such as environmental hazards, evacuation procedures, extra assistance requests.
+Evacuating buildings during emergencies such as fires or terrorist attacks requires heightened environmental awareness, quick decision-making, and immediate action. This project proposes EvacAware, a practical evacuation assistance system designed to enhance situation awareness for evacuation teams via a mobile application. With EvacAware, team leaders gain real-time awareness of critical factors, such as environmental hazards, evacuation procedures, and requests for additional assistance.
 
-Accordingly, a proper sensory infrastructure will be proposed to support indoor positioning in the building. This system's primary goal is to improve the situation awareness of an evacuation team which composed of several individual evacuation leaders. 
-Accordingly, a team situation awareness module will be proposed as a part of assistance system.
+EvacAware primarily aims to enhance the situational awareness of evacuation teams, composed of multiple leaders and support a coordinated evacuation. To achieve this, a team situation awareness module is integrated into the system. Additionally, a comprehensive sensory infrastructure is proposed to collect real-time environmental data, recognize situational contexts, and determine users' indoor positions within the building. Advanced data analysis techniques are employed to predict situations, assess risks, and improve overall understanding of both the environment and user conditions. This enables the system to provide the evacuation team with real-time environmental insights and actionable recommendations.
 
-However, both evacuation leaders and occupants can be users of the application. The occupants can use the application to inform the evacuation leaders about their status and be tracked by the leaders if it is necessary. 
-The focus of this application is the evacuation of buildings with large spaces and large numbers of occupants, such as schools, business buildings, and shopping malls, in emergencies.
+Both evacuation leaders (teams) and building occupants can use the application. Occupants can inform evacuation leaders about their status and, when necessary, be tracked by the leaders. The mobile app is designed to minimize information overload and maintain a user-friendly interface, even in high-stress situations.
+
+The app focuses on evacuating large buildings with numerous occupants, such as schools, business centers, hospitals, airports, train stations, and shopping malls, during emergencies. EvacAware can function as a comprehensive system across different buildings, allowing users to operate a single mobile application for all EvacAware-integrated facilities.
 
 
 {:.list-inline} 
