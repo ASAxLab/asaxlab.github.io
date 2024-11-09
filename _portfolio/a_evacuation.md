@@ -22,13 +22,13 @@ The app focuses on evacuating large buildings with numerous occupants, such as s
 
 {:.list-inline} 
 - **Date**: 
-- **Contributors**: A. Sarkheyli-H&auml;gele, J. Holmberg, R. Malekian, J. Persson, G. H&auml;gele, E. Akin, D. Surie
+- **Contributors**: A. Sarkheyli-H&auml;gele, J. Holmberg, R. Malekian, J. Persson, G. H&auml;gele, E. Akin, D. Surie, A. Bouguerra
 - **Funded**: The Crafoord foundation
 - **External links**: [MAU Project page](https://mau.se/forskning/projekt/evacuation-assistance-system/)
 - **Related Publication**:
 
 | A. Sarkheyli-H&auml;gele, J. Holmberg, G. H&auml;gele	&nbsp;	| Situation Awareness-based Evacuation Assistance System &nbsp;	|	IEEE World Forum on Public Safety Technology  &nbsp;	|	2024		|
 | G. H&auml;gele, J. Holmberg, A. Sarkheyli-H&auml;gele &nbsp;	| Towards Situation Awareness and Decision Guidance in Complex Evacuation Scenarios &nbsp;	|	IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)  &nbsp;	|	2024		|
-| G. H&auml;gele, A. Bougera,  A. Sarkheyli-H&auml;gele &nbsp; | Towards Situation Awareness and Decision Guidance in Complex Evacuation Scenarios &nbsp;	|	IEEE International Symposium on Software Reliability Engineering (ISSRE)  &nbsp;	|	2024		|
+| G. H&auml;gele, A. Bouguerra,  A. Sarkheyli-H&auml;gele &nbsp; | Towards the Certification of an Evacuation Assistance System Utilizing AI-based Approaches &nbsp;	|	IEEE International Symposium on Software Reliability Engineering (ISSRE)  &nbsp;	|	2024		|
 
 

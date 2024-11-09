@@ -21,5 +21,7 @@ This proactive approach will allow timely interventions to uphold systems' safet
 
 {:.list-inline} 
 - **Date**: 2023 - ongiong
-- **Contributors**: G. H&auml;gele, A. Sarkheyli-H&auml;gele
+- **Contributors**: G. H&auml;gele, A. Sarkheyli-H&auml;gele, A. Bouguerra
 - **Related Publication**:
+
+| G. H&auml;gele, A. Bouguerra,  A. Sarkheyli-H&auml;gele &nbsp; | Towards the Certification of an Evacuation Assistance System Utilizing AI-based Approaches &nbsp;	|	IEEE International Symposium on Software Reliability Engineering (ISSRE)  &nbsp;	|	2024		|
