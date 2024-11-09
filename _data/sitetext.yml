@@ -147,11 +147,21 @@ en: &DEFAULT_EN
       - name: "Abdelbaki Bouguerra"
         role: "Senior Researcher"
         image: assets/img/team/500x500.jpg
-        social:  
+        social:
+        
+      - name: "Dipak Surie"
+        role: "Senior Researcher"
+        #image: assets/img/team/500x500.jpg
+        social:
 
       - name: "Alberto Biscalchin"
         role: "Research Assistant"
         image: assets/img/team/alberto.jpg
+        social:
+
+      - name: "Max Ostermann"
+        role: "Research Assistant"
+        #image: assets/img/team/500x500.jpg
         social:
 
       - name: "Awara Pirkhdrie"
@@ -167,6 +177,11 @@ en: &DEFAULT_EN
       - name: "Hamed Talebi"
         role: "Research Assistant"
         image: assets/img/team/500x500.jpg
+        social:
+
+      - name: "Theodor Bäckstrand"
+        role: "Research Assistant"
+        #image: assets/img/team/500x500.jpg
         social:
 
     people_external:
