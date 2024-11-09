@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-DipakSurie",
+      "appliesTo": "assets/img/team/DipakSurie.jpg",
+      "type": "launch"
+    }
+  ]
+}
