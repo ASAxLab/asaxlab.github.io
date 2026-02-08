@@ -88,21 +88,26 @@ en: &DEFAULT_EN
       - title: "Malmö Univerity"
         url: https://mau.se/en/malmo-university/
         logo: assets/img/clients/malmo-universitet.jpg
+
       - title: "ASSA ABLOY Entrance Systems"
         url: https://www.assaabloyentrance.com/global/en
         logo: https://gw-assets.assaabloy.com/is/content/assaabloy/assa-abloy-deep-blue-logo?wid=undefined&hei=undefined
+
       #- title: "Husqvarna Group"
       #  url: https://husqvarna.com
       #  logo: assets/img/clients/husqvarna-group.jpg
       - title: "University of Duisburg-Essen"
         url: https://www.uni-due.de/en/index.php
         logo: assets/img/clients/logo-uni-duisburg-essen.jpg
+
       - title: "Kristianstad University"
         url: https://www.hkr.se/en/
         logo: assets/img/clients/hkr.png
+
       - title: "Pitt HexAI"
         url: https://pitthexai.github.io/index.html
         logo: assets/img/clients/Pitthexai_logo.png
+
       #- title: "Creative Market"
       #  url: https://github.com/raviriley/agency-jekyll-theme
       #  logo: assets/img/clients/creative-market.jpg
@@ -155,6 +160,11 @@ en: &DEFAULT_EN
         image: assets/img/team/alberto.jpg
         social:
 
+      - name: "Fiona Maci"
+        role: "Research Assistant"
+        image: assets/img/team/Fiona.jpg
+        social:
+        
       - name: "Max Ostermann"
         role: "Research Assistant"
         image: assets/img/team/MaxOstermann.jpg
