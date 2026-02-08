@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Activity-Aware Smart Environments 
   subtitle: Machine Learning and IoT Sensors for Human Activity Recognition
-  thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/smartenvironment.jpg
+  thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/Smartenvironment2.jpg
   
 #what displays when the item is clicked:
 title: EvacAware&#8282; Real-Time Intelligence for Coordinated Evacuations
