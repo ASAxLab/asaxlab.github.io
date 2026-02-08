@@ -190,22 +190,52 @@ en: &DEFAULT_EN
         image: assets/img/team/Elielalawi.jpeg
         social:
 
-     # - name: "Marteinn Hjaltason"
-        #role: "Research Assistant"
-        #image: assets/img/team/MarteinnHjaltason.jpeg
-        #social:
+      - name: "Parisa Mehrabi"
+        role: "Research Assistant"
+        image: assets/img/team/Parisamehrabi.jpeg
+        social:
 
-     # - name: "Rabba Khatib"
-        #role: "Research Assistant"
-        #image: assets/img/team/RabbaKhatib.jpeg
-        #social:
+      - name: "Linnea Dahlgren"
+        role: "Research Assistant"
+        image: assets/img/team/LinneaDahlgren.jpeg
+        social:
 
-     # - name: "Joanna Stark"
-        #role: "Research Assistant"
-        #image: assets/img/team/JoannaStark.jpeg
-        #social:
+      - name: "Tanadad Namkot"
+        role: "Research Assistant"
+        image: assets/img/team/TanadadNamkot.jpeg
+        social:
 
-     # - name: "Kamila Goldyka"
+      - name: "Kelvin Liu"
+        role: "Research Assistant"
+        image: assets/img/team/KelvinLiu.jpeg
+        social:
+
+      - name: "Marteinn Hjaltason"
+        role: "Research Assistant"
+        image: assets/img/team/MarteinnHjaltason.jpeg
+        social:
+
+      - name: "Rabba Khatib"
+        role: "Research Assistant"
+        image: assets/img/team/RabbaKhatib.jpeg
+        social:
+
+      - name: "Joanna Stark"
+        role: "Research Assistant"
+        image: assets/img/team/JoannaStark.jpeg
+        social:
+
+      - name: "Elling Dimmen Roppen"
+        role: "Research Assistant"
+        image: assets/img/team/EllingDimmenRoppen.jpeg
+        social:
+
+      - name: "Vu Phan"
+        role: "Research Assistant"
+        image: assets/img/team/VuPhan.jpeg
+        social:
+
+    # - name: "Kamila Goldyka"
         #role: "Research Assistant"
         #image: assets/img/team/KamilaGoldyka.jpeg
         #social:
@@ -215,6 +245,10 @@ en: &DEFAULT_EN
         image: assets/img/team/Elielalawi.jpeg
         social:
 
+    #  - name: "Tsampika Kiaourtzi"
+       # role: "Research Assistant"
+       # image: assets/img/team/TsampikaKiaourtzi.jpeg
+       # social:
 
     people_external:
       - name: "Ahmad P. Tafti"
