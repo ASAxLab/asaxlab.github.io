@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Federated and Privacy-Preserving Machine Learning
-  subtitle: Decision Support System for Understanding Travel Behaviour
+  subtitle: 
   thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/fl.jpg
   
 #what displays when the item is clicked:
