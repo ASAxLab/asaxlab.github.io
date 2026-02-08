@@ -121,7 +121,7 @@ en: &DEFAULT_EN
     section: team
     people_active:
       - name: "Arezoo Sarkheyli-Hägele"
-        role: "Director"
+        role: "Director, Senior Researcher"
         image: assets/img/team/arezoo_final2.jpg
         social:
           #- url: https://twitter.com
