@@ -170,9 +170,24 @@ en: &DEFAULT_EN
         image: assets/img/team/MaxOstermann.jpg
         social:
 
+       - name: "Kasper Schröder"
+        role: "Research Assistant"
+        image: assets/img/team/Kasperschroder.jpeg
+        social:
+
+      - name: "Martin Frick"
+        role: "Research Assistant"
+        image: assets/img/team/MartinFrick.jpeg
+        social:
+
       - name: "Martins Egbe"
         role: "Research Assistant"
         image: assets/img/team/MartinsEgbe.jpeg
+        social:
+
+     - name: "Eli El-Alawi"
+        role: "Research Assistant"
+        image: assets/img/team/Elielalawi.jpeg
         social:
 
     people_external:
@@ -259,7 +274,8 @@ en: &DEFAULT_EN
         role: "Research Assistant"
         #image: assets/img/team/EllyasRahimy.jpeg
         social:
-          
+        
+
 
   contact:
     title: "Contact Us"
