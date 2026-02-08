@@ -88,9 +88,12 @@ en: &DEFAULT_EN
       - title: "Malmö Univerity"
         url: https://mau.se/en/malmo-university/
         logo: assets/img/clients/malmo-universitet.jpg
-      - title: "Husqvarna Group"
-        url: https://husqvarna.com
-        logo: assets/img/clients/husqvarna-group.jpg
+      - title: "ASSA ABLOY Entrance Systems"
+        url: https://www.assaabloyentrance.com/global/en
+        logo: https://gw-assets.assaabloy.com/is/content/assaabloy/assa-abloy-deep-blue-logo?wid=undefined&hei=undefined
+      #- title: "Husqvarna Group"
+      #  url: https://husqvarna.com
+      #  logo: assets/img/clients/husqvarna-group.jpg
       - title: "University of Duisburg-Essen"
         url: https://www.uni-due.de/en/index.php
         logo: assets/img/clients/logo-uni-duisburg-essen.jpg
@@ -129,11 +132,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/dr-georg-h%C3%A4gele-523755134/
             icon: fab fa-linkedin-in
 
-      - name: "Magnus Johnsson"
-        role: "Academic Advisor"
-        image: assets/img/team/MagnusJohnsson_ProfilPicture.png
-        social:
-         
+               
       - name: "Johan Holmberg"
         role: "Senior Researcher"
         image: assets/img/team/ac8647.jpg
@@ -144,10 +143,7 @@ en: &DEFAULT_EN
         image: assets/img/team/photoErdal.jpg
         social:
 
-      - name: "Abdelbaki Bouguerra"
-        role: "Senior Researcher"
-        image: assets/img/team/500x500.jpg
-        social:
+      
         
       - name: "Dipak Surie"
         role: "Senior Researcher"
@@ -238,6 +234,17 @@ en: &DEFAULT_EN
         role: "Research Assistant"
         #image: assets/img/team/erik.jpg
         social:
+
+      - name: "Magnus Johnsson"
+        role: "Academic Advisor"
+        #image: assets/img/team/MagnusJohnsson_ProfilPicture.png
+        social:
+
+      - name: "Abdelbaki Bouguerra"
+        role: "Senior Researcher"
+        #image: assets/img/team/500x500.jpg
+        social:
+
           
 
   contact:
