@@ -170,44 +170,9 @@ en: &DEFAULT_EN
         image: assets/img/team/MaxOstermann.jpg
         social:
 
-      - name: "Jørgen Hoel"
+      - name: "Martins Egbe"
         role: "Research Assistant"
-        image: assets/img/team/500x500.jpg
-        social:
-
-      - name: "Awara Pirkhdrie"
-        role: "Research Assistant"
-        image: assets/img/team/Awara.jpg
-        social:  
-
-      - name: "Hamed Talebi"
-        role: "Research Assistant"
-        image: assets/img/team/500x500.jpg
-        social:
-
-      - name: "Theodor Bäckstrand"
-        role: "Research Assistant"
-        image: assets/img/team/Theodor.jpeg
-        social:
-
-      - name: "Adrian Pourlotfi"
-        role: "Research Assistant"
-        image: assets/img/team/AdrianPourlotfi.jpeg
-        social:
-
-      - name: "Annelie Xu"
-        role: "Research Assistant"
-        image: assets/img/team/500x500.jpg
-        social:
-
-      - name: "Mustafa Abbas"
-        role: "Research Assistant"
-        image: assets/img/team/MustafaAbbas.jpg
-        social:
-
-      - name: "Ellyas Rahimy"
-        role: "Research Assistant"
-        image: assets/img/team/EllyasRahimy.jpeg
+        image: assets/img/team/MartinsEgbe.jpeg
         social:
 
     people_external:
