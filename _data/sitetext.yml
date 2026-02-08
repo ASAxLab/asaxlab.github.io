@@ -151,7 +151,7 @@ en: &DEFAULT_EN
         
       - name: "Dipak Surie"
         role: "Senior Researcher"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/DipakSurie.jpg
         social:
 
       - name: "Alberto Biscalchin"
@@ -161,7 +161,7 @@ en: &DEFAULT_EN
 
       - name: "Max Ostermann"
         role: "Research Assistant"
-        #image: assets/img/team/500x500.jpg
+        image: assets/img/team/MaxOstermann.jpg
         social:
 
       - name: "Jørgen Hoel"
@@ -181,27 +181,27 @@ en: &DEFAULT_EN
 
       - name: "Theodor Bäckstrand"
         role: "Research Assistant"
-        #image: assets/img/team/500x500.jpg
+        image: assets/img/team/Theodor.jpeg
         social:
 
       - name: "Adrian Pourlotfi"
         role: "Research Assistant"
-        #image: assets/img/team/500x500.jpg
+        image: assets/img/team/AdrianPourlotfi.jpeg
         social:
 
       - name: "Annelie Xu"
         role: "Research Assistant"
-        #image: assets/img/team/500x500.jpg
+        image: assets/img/team/500x500.jpg
         social:
 
       - name: "Mustafa Abbas"
         role: "Research Assistant"
-        #image: assets/img/team/500x500.jpg
+        image: assets/img/team/MustafaAbbas.jpg
         social:
 
       - name: "Ellyas Rahimy"
         role: "Research Assistant"
-        #image: assets/img/team/500x500.jpg
+        image: assets/img/team/EllyasRahimy.jpeg
         social:
 
     people_external:
