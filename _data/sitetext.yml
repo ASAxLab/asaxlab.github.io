@@ -254,8 +254,8 @@ en: &DEFAULT_EN
         role: "Senior Researcher"
         #image: assets/img/team/500x500.jpg
         social:
-
-     -  name: "Jørgen Hoel"
+        
+      - name: "Jørgen Hoel"
         role: "Research Assistant"
         #image: assets/img/team/500x500.jpg
         social:
