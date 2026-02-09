@@ -137,12 +137,12 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/dr-georg-h%C3%A4gele-523755134/
             icon: fab fa-linkedin-in
                
-       - name: "Najmeh Abiri"
+      - name: "Najmeh Abiri"
         role: "Project Supervisor, Senior Researcher"
         image: assets/img/team/Najmeh.jpg
         social:
 
-       - name: "Azra Abtahi Fahliani"
+      - name: "Azra Abtahi Fahliani"
         role: "Project Supervisor, Senior Researcher"
         image: assets/img/team/Azra.jpg
         social:
