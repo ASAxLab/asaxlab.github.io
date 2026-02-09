@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Trustworthy LLM-Based Intelligence for Sustainable Mobility
   subtitle: Decision Support System for Understanding Travel Behaviour
-  thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/llmmobility.jpg
+  thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/llmmobility.png
   
 #what displays when the item is clicked:
-title: EvacAware&#8282; Real-Time Intelligence for Coordinated Evacuations
-subtitle: This project aims to design a practical evacuation assistance system for evacuation leaders and teams to improve their situation awareness in emergencies through a mobile application.
-image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/evac1.jpg  #main image, can be a link or a file in assets/img/portfolio
+title: Trustworthy LLM-Based Intelligence for Sustainable Mobility
+subtitle: Decision Support System for Understanding Travel Behaviour
+image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/llmmobility.png  #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
