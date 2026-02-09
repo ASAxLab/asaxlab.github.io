@@ -136,23 +136,35 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/dr-georg-h%C3%A4gele-523755134/
             icon: fab fa-linkedin-in
-
                
-      - name: "Johan Holmberg"
-        role: "Senior Researcher"
-        image: assets/img/team/ac8647.jpg
+       - name: "Najmeh Abiri"
+        role: "Project Supervisor, Senior Researcher"
+        image: assets/img/team/Najmeh.jpg
         social:
 
+       - name: "Azra Abtahi Fahliani"
+        role: "Project Supervisor, Senior Researcher"
+        image: assets/img/team/Azra.jpg
+        social:
+        
       - name: "Erdal Akin"
-        role: "Senior Researcher"
+        role: "Project Supervisor, Senior Researcher"
         image: assets/img/team/photoErdal.jpg
         social:
 
-      
-        
+      - name: "Elnaz Sarkheyli"
+        role: "Project Supervisor, Senior Researcher"
+        image: assets/img/team/Elnaz.jpg
+        social:
+            
       - name: "Dipak Surie"
-        role: "Senior Researcher"
+        role: "Project Supervisor, Senior Researcher"
         image: assets/img/team/DipakSurie.jpg
+        social:
+
+      - name: "Johan Holmberg"
+        role: "Advisor"
+        image: assets/img/team/ac8647.jpg
         social:
 
       - name: "Alberto Biscalchin"
