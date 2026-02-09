@@ -2,11 +2,11 @@
 caption: #what displays in the portfolio grid:
   title: Federated and Privacy-Preserving Machine Learning
   subtitle: 
-  thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/fl.jpg
+  thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/fl.png
   
 #what displays when the item is clicked:
 title: Federated and Privacy-Preserving Machine Learning
-image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/fl.jpg  #main image, can be a link or a file in assets/img/portfolio
+image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/fl.png  #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
