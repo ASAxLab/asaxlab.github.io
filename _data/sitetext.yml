@@ -177,6 +177,16 @@ en: &DEFAULT_EN
         image: assets/img/team/MaxOstermann.jpg
         social:
 
+      - name: "Petter Rignell"
+        role: "Research Assistant"
+        image: assets/img/team/PetterRignell.jpeg
+        social:
+
+      - name: "Nezar Sheikhi"
+        role: "Research Assistant"
+        image: assets/img/team/NezarSheikhi.jpeg
+        social:
+
       - name: "Kasper Schröder"
         role: "Research Assistant"
         image: assets/img/team/Kasperschroder.jpeg
