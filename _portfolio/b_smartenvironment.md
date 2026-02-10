@@ -6,7 +6,7 @@ caption: #what displays in the portfolio grid:
   
 #what displays when the item is clicked:
 title: Activity-Aware Smart Environments 
-subtitle: Machine Learning and IoT Sensors for Human Activity Recognition.
+subtitle: Machine Learning and IoT Sensors for Human Activity Recognition
 image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/Smartenvironment2.jpg  #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 

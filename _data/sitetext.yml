@@ -141,20 +141,15 @@ en: &DEFAULT_EN
         role: "Project Supervisor, Senior Researcher"
         image: assets/img/team/Najmeh.jpg
         social:
-
-      - name: "Azra Abtahi Fahliani"
-        role: "Project Supervisor, Senior Researcher"
-        image: assets/img/team/Azra.jpg
-        social:
-        
+       
       - name: "Erdal Akin"
         role: "Project Supervisor, Senior Researcher"
         image: assets/img/team/photoErdal.jpg
         social:
 
-      - name: "Elnaz Sarkheyli"
+      - name: "Azra Abtahi Fahliani"
         role: "Project Supervisor, Senior Researcher"
-        image: assets/img/team/Elnaz.jpg
+        image: assets/img/team/Azra.jpg
         social:
             
       - name: "Dipak Surie"

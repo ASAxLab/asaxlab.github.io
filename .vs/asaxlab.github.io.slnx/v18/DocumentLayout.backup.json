@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\AI3467\\source\\repos\\ASAxLab\\asaxlab.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AI3467\\source\\repos\\ASAxLab\\asaxlab.github.io\\_data\\sitetext.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\sitetext.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AI3467\\source\\repos\\ASAxLab\\asaxlab.github.io\\_portfolio\\c_llmmobility.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_portfolio\\c_llmmobility.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AI3467\\source\\repos\\ASAxLab\\asaxlab.github.io\\_portfolio\\d_FL.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_portfolio\\d_FL.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AI3467\\source\\repos\\ASAxLab\\asaxlab.github.io\\_portfolio\\c_llmmobility.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_portfolio\\c_llmmobility.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AI3467\\source\\repos\\ASAxLab\\asaxlab.github.io\\_data\\sitetext.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\sitetext.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AI3467\\source\\repos\\ASAxLab\\asaxlab.github.io\\_portfolio\\b_smartenvironment.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -44,22 +44,23 @@
               "RelativeDocumentMoniker": "_portfolio\\d_FL.md",
               "ToolTip": "C:\\Users\\AI3467\\source\\repos\\ASAxLab\\asaxlab.github.io\\_portfolio\\d_FL.md",
               "RelativeToolTip": "_portfolio\\d_FL.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-02-08T16:53:49.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "c_llmmobility.md",
               "DocumentMoniker": "C:\\Users\\AI3467\\source\\repos\\ASAxLab\\asaxlab.github.io\\_portfolio\\c_llmmobility.md",
               "RelativeDocumentMoniker": "_portfolio\\c_llmmobility.md",
               "ToolTip": "C:\\Users\\AI3467\\source\\repos\\ASAxLab\\asaxlab.github.io\\_portfolio\\c_llmmobility.md",
               "RelativeToolTip": "_portfolio\\c_llmmobility.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-08T16:47:08.039Z"
+              "WhenOpened": "2026-02-08T16:47:08.039Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -69,19 +70,20 @@
               "RelativeDocumentMoniker": "_portfolio\\b_smartenvironment.md",
               "ToolTip": "C:\\Users\\AI3467\\source\\repos\\ASAxLab\\asaxlab.github.io\\_portfolio\\b_smartenvironment.md",
               "RelativeToolTip": "_portfolio\\b_smartenvironment.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-08T16:24:25.201Z"
+              "WhenOpened": "2026-02-08T16:24:25.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "sitetext.yml",
               "DocumentMoniker": "C:\\Users\\AI3467\\source\\repos\\ASAxLab\\asaxlab.github.io\\_data\\sitetext.yml",
               "RelativeDocumentMoniker": "_data\\sitetext.yml",
               "ToolTip": "C:\\Users\\AI3467\\source\\repos\\ASAxLab\\asaxlab.github.io\\_data\\sitetext.yml",
               "RelativeToolTip": "_data\\sitetext.yml",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAowI8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2026-02-08T16:04:14.962Z",
               "EditorCaption": ""

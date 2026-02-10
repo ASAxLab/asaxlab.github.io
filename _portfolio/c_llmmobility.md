@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Trustworthy LLM-Based Intelligence for Sustainable Mobility
-  subtitle: Decision Support System for Understanding Travel Behaviour
+  title: Trustworthy LLM-Based Decision Support for Sustainable Mobility
+  subtitle: 
   thumbnail: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/llmmobiliy.png
   
 #what displays when the item is clicked:
-title: Trustworthy LLM-Based Intelligence for Sustainable Mobility
-subtitle: Decision Support System for Understanding Travel Behaviour
+title: Trustworthy LLM-Based Decision Support for Sustainable Mobility
+subtitle: 
 image: https://raw.githubusercontent.com/ASAxLab/asaxlab.github.io/main/assets/img/portfolio/llmmobiliy.png  #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 

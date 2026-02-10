@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_data",
+    "\\_includes",
+    "\\_layouts",
+    "\\_portfolio"
   ],
+  "SelectedNode": "\\_portfolio\\c_llmmobility.md",
   "PreviewInSolutionExplorer": false
 }
