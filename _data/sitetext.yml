@@ -77,7 +77,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "ASAxLab"
-    body: "We are a team of researchers strongly dedicated to providing high-quality results to our partners, customers, and sponsors."
+    body: "We are a team of researchers strongly dedicated to providing high-quality results to our partners and sponsors."
     section: about
 
   clients:
@@ -130,6 +130,7 @@ en: &DEFAULT_EN
           #  icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/arezoo-sarkheyli-h%C3%A4gele/
             icon: fab fa-linkedin-in
+
       - name: "Georg Hägele"
         role: "Asossiated Director"
         image: assets/img/team/georg4.jpg
@@ -141,6 +142,11 @@ en: &DEFAULT_EN
         role: "Project Supervisor, Senior Researcher"
         image: assets/img/team/Najmeh.jpg
         social:
+
+     # - name: "Elnaz Sarkheyli"
+     #   role: "Project Supervisor, Senior Researcher"
+     #   image: assets/img/team/Elnaz.jpg
+     #   social:
        
       - name: "Erdal Akin"
         role: "Project Supervisor, Senior Researcher"
@@ -244,7 +250,7 @@ en: &DEFAULT_EN
 
       - name: "Vu Phan"
         role: "Research Assistant"
-        image: assets/img/team/VuPhan.jpeg
+        image: assets/img/team/VuPhan.png
         social:
 
     # - name: "Kamila Goldyka"
