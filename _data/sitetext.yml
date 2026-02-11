@@ -255,20 +255,25 @@ en: &DEFAULT_EN
         image: assets/img/team/VuPhan.png
         social:
 
-    # - name: "Kamila Goldyka"
-        #role: "Research Assistant"
-        #image: assets/img/team/KamilaGoldyka.jpeg
-        #social:
+      - name: "Joakim Lord"
+        role: "Research Assistant"
+        image: assets/img/team/JoakimLord.jpeg
+        social:
+
+      - name: "Kamila Goldyka"
+        role: "Research Assistant"
+        image: assets/img/team/KamilaGoldyka.jpeg
+        social:
         
       - name: "Eli El-Alawi"
         role: "Research Assistant"
         image: assets/img/team/Elielalawi.jpeg
         social:
 
-    #  - name: "Tsampika Kiaourtzi"
-       # role: "Research Assistant"
-       # image: assets/img/team/TsampikaKiaourtzi.jpeg
-       # social:
+      - name: "Tsampika Kiaourtzi"
+        role: "Research Assistant"
+        image: assets/img/team/TsampikaKiaourtzi.jpeg
+        social:
 
     people_external:
       - name: "Ahmad P. Tafti"
