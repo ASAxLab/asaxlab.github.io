@@ -142,8 +142,8 @@ en: &DEFAULT_EN
         role: "Project Supervisor, Senior Researcher"
         image: assets/img/team/Najmeh.jpg
         social:
-
-     - name: "Elnaz Sarkheyli"
+        
+      - name: "Elnaz Sarkheyli"
         role: "Project Supervisor, Senior Researcher"
         image: assets/img/team/Elnaz.jpg
         social:
