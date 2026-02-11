@@ -143,10 +143,10 @@ en: &DEFAULT_EN
         image: assets/img/team/Najmeh.jpg
         social:
 
-     # - name: "Elnaz Sarkheyli"
-     #   role: "Project Supervisor, Senior Researcher"
-     #   image: assets/img/team/Elnaz.jpg
-     #   social:
+     - name: "Elnaz Sarkheyli"
+        role: "Project Supervisor, Senior Researcher"
+        image: assets/img/team/Elnaz.jpg
+        social:
        
       - name: "Erdal Akin"
         role: "Project Supervisor, Senior Researcher"
