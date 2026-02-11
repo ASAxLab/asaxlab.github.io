@@ -147,6 +147,8 @@ en: &DEFAULT_EN
         role: "Project Supervisor, Senior Researcher"
         image: assets/img/team/Elnaz.jpg
         social:
+          - url: https://mau.se/en/persons/elnaz.sarkheyli/
+            icon: fab fa-linkedin-in
        
       - name: "Erdal Akin"
         role: "Project Supervisor, Senior Researcher"
