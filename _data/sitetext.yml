@@ -272,7 +272,7 @@ en: &DEFAULT_EN
 
       - name: "Tsampika Kiaourtzi"
         role: "Research Assistant"
-        image: assets/img/team/TsampikaKiaourtzi.jpeg
+        image: assets/img/team/TsampikaKiaourtzi.jpg
         social:
 
     people_external:
