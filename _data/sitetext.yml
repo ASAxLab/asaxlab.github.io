@@ -137,6 +137,11 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/dr-georg-h%C3%A4gele-523755134/
             icon: fab fa-linkedin-in
+
+      - name: "Johan Holmberg"
+        role: "Advisor"
+        image: assets/img/team/ac8647.jpg
+        social:
                
       - name: "Najmeh Abiri"
         role: "Project Supervisor, Senior Researcher"
@@ -163,11 +168,6 @@ en: &DEFAULT_EN
       - name: "Dipak Surie"
         role: "Project Supervisor, Senior Researcher"
         image: assets/img/team/DipakSurie.jpg
-        social:
-
-      - name: "Johan Holmberg"
-        role: "Advisor"
-        image: assets/img/team/ac8647.jpg
         social:
 
       - name: "Alberto Biscalchin"
