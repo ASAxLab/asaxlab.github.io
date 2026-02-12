@@ -185,6 +185,11 @@ en: &DEFAULT_EN
         image: assets/img/team/MaxOstermann.jpg
         social:
 
+      - name: "Md Ariful Amin"
+        role: "Research Assistant"
+        image: assets/img/team/MdArifulAmin.jpg
+        social:
+
       - name: "Petter Rignell"
         role: "Research Assistant"
         image: assets/img/team/PetterRignell.jpeg
