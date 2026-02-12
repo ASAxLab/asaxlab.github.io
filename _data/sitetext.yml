@@ -192,7 +192,7 @@ en: &DEFAULT_EN
 
       - name: "Nezar Sheikhi"
         role: "Research Assistant"
-        image: assets/img/team/NezarSheikhi.jpeg
+        image: assets/img/team/NezarSheikhi.jpg
         social:
 
       - name: "Kasper Schröder"
