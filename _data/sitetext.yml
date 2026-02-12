@@ -150,7 +150,7 @@ en: &DEFAULT_EN
         
       - name: "Elnaz Sarkheyli"
         role: "Project Supervisor, Senior Researcher"
-        image: assets/img/team/Elnaz.jpg
+        image: assets/img/team/elnaz.jpg
         social:
           - url: https://mau.se/en/persons/elnaz.sarkheyli/
             icon: fab fa-linkedin-in
