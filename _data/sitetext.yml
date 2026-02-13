@@ -187,14 +187,14 @@ en: &DEFAULT_EN
 
       - name: "Md Ariful Amin"
         role: "Research Assistant"
-        image: assets/img/team/MdArifulAmin.jpg
+        image: assets/img/team/MdArifulAmin.jpeg
         social:
 
       - name: "Petter Rignell"
         role: "Research Assistant"
         image: assets/img/team/PetterRignell.jpeg
         social:
-
+        
       - name: "Nezar Sheikhi"
         role: "Research Assistant"
         image: assets/img/team/NezarSheikhi.jpg
